@@ -1,2 +1,2 @@
-# Cardiovascular-risk-prediction
+# corona virus sentiment
 machine learning classification project
