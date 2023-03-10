@@ -23,7 +23,7 @@ We have done model deployement and analyses the data on multiple and binary basi
 
 We first evaluated the the model on the basis of multipleclassification where we have taken multiple sentiments into consideration which includes positive ,negative,neutral, extremely positive and extremely negative sentiment.
 
-After applying various classification algorithm we come to a conclusion that the best is stochastic gradient Descent with a score of 86.582 percent.
+After applying various classification algorithm we come to a conclusion that the best is logistic classification is best with a score of 61 percent for multi classification.
 
 After multiple classification we divided our data into binary classification, in which extremely positive, positive and netral are taken as 1 and extremely negative and negative are taken as 0 for classification.
 
